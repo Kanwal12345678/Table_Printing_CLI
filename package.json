@@ -1,10 +1,13 @@
 {
-  "name": "table_printing_cli",
-  "version": "1.0.0",
+  "name": "@kanwalshahzadi/table_printing_cli",
+  "version": "1.0.1",
   "description": "CLI based table printing",
   "main": "index.js",
   "type": "module",
   "bin": "main.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
