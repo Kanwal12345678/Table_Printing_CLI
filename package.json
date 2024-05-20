@@ -1,6 +1,6 @@
 {
   "name": "@kanwalshahzadi/table_printing_cli",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "CLI based table printing",
   "main": "index.js",
   "type": "module",
